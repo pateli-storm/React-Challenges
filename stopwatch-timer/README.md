@@ -1,8 +1,8 @@
-#Challenge: Build a Stopwatch/Timer in React
+# Challenge: Build a Stopwatch/Timer in React
 
 In this challenge, you'll create a functional React component that acts as a simple stopwatch and timer. It will display the elapsed time in minutes and seconds, along with buttons to start, stop, and reset the timer.
 
-##Functionality:
+## Functionality:
 
 * **State Management:** The component will utilize the `useState` hook from React to manage the current time value, initially set to 0.
 * **Timer Logic:**
@@ -12,7 +12,7 @@ In this challenge, you'll create a functional React component that acts as a sim
 * **Reset Functionality:** Clicking the "Reset" button will clear the interval and reset the time state to 0, starting the timer from scratch.
 
 
-##Steps:
+## Steps:
 
 1. **Set up the React Component**:
 
