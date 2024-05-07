@@ -47,7 +47,7 @@ Call `stopTime` when the "Stop" button is clicked.
 - Call `resetTime` when the "Reset" button is clicked.
 
 
-5. **Render the UI:**
+6. **Render the UI:**
 
 - Return a JSX structure representing the stopwatch/timer:
  -  A main container (`main`) with a heading ("Timer").
