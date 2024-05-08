@@ -1,4 +1,4 @@
-# Show-Hide/itle
+# Show-Hide/Title
 
 
 In this React challenge, you'll create a dynamic component that allows you to toggle the visibility of a title. By clicking a button labeled "Show / Hide," you'll be able to control whether the title "Welcome to React Challenges" is displayed or hidden.
